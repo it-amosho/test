@@ -1,4 +1,4 @@
-17:53:22,219  INFO XmlBeanDefinitionReader.loadBeanDefinitions:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+17:53:22,219  INFO XmlBeanDefinitionReader.loadBeanDefinitions:316 - XML bean definitions from class path resource [applicationContext.xml]
 17:53:22,947  INFO XmlBeanDefinitionReader.loadBeanDefinitions:316 - Loading XML bean definitions from file [/Users/amos/git/kkday-api/kkday-api-core/bin/applicationContext-admin.xml]
 17:53:22,998  INFO XmlBeanDefinitionReader.loadBeanDefinitions:316 - Loading XML bean definitions from file [/Users/amos/git/kkday-api/kkday-api-core/bin/applicationContext-redis.xml]
 17:53:23,033  INFO XmlBeanDefinitionReader.loadBeanDefinitions:316 - Loading XML bean definitions from file [/Users/amos/git/kkday-api/kkday-api-core/bin/applicationContext-api.xml]
